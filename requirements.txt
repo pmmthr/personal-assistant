@@ -1,0 +1,6 @@
+aiohttp-jinja2==1.5
+aiogram==2.20
+environs==9.5.0
+sqlalchemy
+psycopg2
+asyncpg
